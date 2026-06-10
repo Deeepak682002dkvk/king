@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Top-Up Store",
+  "description": "A modern and professional gaming top-up website with a dark neon theme, Free Fire top-up items, UPI/Razorpay payment flows, and an admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
